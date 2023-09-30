@@ -35,3 +35,7 @@ docker-compose up -d
 ```
 yarn start:dev
 ```
+6. Visit page apollo server
+```
+http://localhost:3000/graphql
+```
