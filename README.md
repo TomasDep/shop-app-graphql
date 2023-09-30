@@ -4,7 +4,7 @@
    
 </p>
 
-Backend project of an online store created with GraphQL
+Backend project of an online store created with GraphQL.
 
 ## Technologies
 
